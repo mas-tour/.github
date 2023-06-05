@@ -2,13 +2,9 @@
   <img src="https://github.com/mas-tour.png" height="100" />
 </p>
 
-<br>
-
 # MasTour
 
 **MasTour** is an application that engaged in the field of tourism, culture, and hospitality. Developed by **C23-PS232** team as part of the Capstone Project at [Bangkit Academy 2023](https://bangkit.academy). The team consists of three different learning paths: Machine Learning, Cloud Computing, and Mobile Development.
-
-<br>
 
 # About The Project
 
@@ -18,13 +14,9 @@ MasTour connects tourists directly with local freelance tour guides, providing a
 
 **With MasTour, travelers can enjoy a unique and unforgettable travel experience while supporting local tourism growth.**
 
-<br>
-
 # Team Members
 
 ## Team-ID : C23-PS232
-
-<br>
 
 | Name                  | Student-ID  | Path                |
 | --------------------- | ----------- | ------------------- | 
@@ -34,8 +26,6 @@ MasTour connects tourists directly with local freelance tour guides, providing a
 | M. Noor Ravi Deevan   | C177DSX2197 | Cloud Computing     |
 | Ifan Perdana Putra    | A163DSX1127 | Android Development |
 | Ahmad Fauzan Mansur   | A177DSX1053 | Android Development |
-
-<br>
 
 # Installation
 
