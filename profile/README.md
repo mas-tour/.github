@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mas-tour.png" height="100" />
+  <img src="https://github.com/mas-tour/.github/blob/main/profile/MasTour-Banner.png" height="300" />
 </p>
 
 # MasTour
