@@ -28,8 +28,12 @@ MasTour connects tourists directly with local freelance tour guides, providing a
 | Ahmad Fauzan Mansur   | A177DSX1053 | Android Development |
 
 # Installation
+[MasTour Mobile Development Readme](https://github.com/mas-tour/mastour-front-end#Getting-Started)
 
 # App Demo
+- [Application Demo](https://github.com/mas-tour/mastour-front-end#Screenshots-and-Demo)
+
+- Screenshot Application
 <p align="left">
   <img src="https://github.com/mas-tour/.github/blob/main/profile/demo-regist.png" height="300" />
 </p>
@@ -40,6 +44,6 @@ MasTour connects tourists directly with local freelance tour guides, providing a
 
 
 # Project Documents:
-- Project Plan:
-- Project Brief:
-- Final presentation: 
+- [Project Plan](https://docs.google.com/document/d/17uoUftDdiHXfh8V0___xwGdFbCpeLi1I81_j5BKQwbo/edit?usp=sharing)
+- [Project Brief](https://docs.google.com/document/d/1GHPIw_bDCM00r0oV7kifRYJJBQxNGDYp5-X7OPrtmvw/edit?usp=sharing)
+- [Final presentation](https://www.canva.com/design/DAFltDpJQTw/L3sYegUf8N7ORtbTGQmETg/edit?utm_content=DAFltDpJQTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
