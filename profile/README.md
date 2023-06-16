@@ -31,7 +31,9 @@ MasTour connects tourists directly with local freelance tour guides, providing a
 [MasTour Mobile Development Readme](https://github.com/mas-tour/mastour-front-end#Getting-Started)
 
 # App Demo
-- [Application Demo](https://github.com/mas-tour/mastour-front-end#Screenshots-and-Demo)
+- Application Demo (Click to See Demo)
+
+[<img src="https://i.ytimg.com/vi/gPyj6UmJgpg/maxresdefault.jpg" width="25%">](https://www.youtube.com/watch?v=gPyj6UmJgpg "Demonstration and Showcase")
 
 - Screenshot Application
 <p align="left">
