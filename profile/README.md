@@ -30,8 +30,16 @@ MasTour connects tourists directly with local freelance tour guides, providing a
 # Installation
 
 # App Demo
+<p align="left">
+  <img src="https://github.com/mas-tour/.github/blob/main/profile/demo-regist.png" height="300" />
+</p>
+  <img src="https://github.com/mas-tour/.github/blob/main/profile/demo-matchmaking.png" height="300" />
+</p>
+  <img src="https://github.com/mas-tour/.github/blob/main/profile/demo-hiring-tour-guide.png" height="300" />
+</p>
+
 
 # Project Documents:
-- Proposal:
+- Project Plan:
 - Project Brief:
-- Final presentation:
+- Final presentation: 
